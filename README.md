@@ -1,0 +1,1 @@
+This is a LSTM base text summarizer for automatic generation of contextual summaries
